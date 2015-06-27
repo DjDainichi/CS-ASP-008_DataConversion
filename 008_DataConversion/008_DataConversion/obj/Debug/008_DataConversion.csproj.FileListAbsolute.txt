@@ -1,0 +1,6 @@
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\008_DataConversionNS\008_DataConversion\008_DataConversion\bin\008_DataConversion.dll.config
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\008_DataConversionNS\008_DataConversion\008_DataConversion\bin\008_DataConversion.dll
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\008_DataConversionNS\008_DataConversion\008_DataConversion\bin\008_DataConversion.pdb
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\008_DataConversionNS\008_DataConversion\008_DataConversion\obj\Debug\008_DataConversion.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\008_DataConversionNS\008_DataConversion\008_DataConversion\obj\Debug\008_DataConversion.dll
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\008_DataConversionNS\008_DataConversion\008_DataConversion\obj\Debug\008_DataConversion.pdb
